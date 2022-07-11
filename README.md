@@ -1,16 +1,28 @@
-### Hi there 👋
 
-<!--
-**rajatshukla009/rajatshukla009** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+document.write("Hello World");
 
-Here are some ideas to get you started:
+var status = 
+{ 
+  learning : [Django Framework, Rust],
+  interests: [Game Development, Python Development , Open Source Contribution]
+}
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+const skills = 
+{
+  languages :[C, C++, Python, Javascript, HTML-CSS],
+  
+  frameworks:[ReactJs, Django],
+  
+  databases :[MySql, PostgreSQL, Firebase]
+}
+
+
+Developer dev = new Developer(Rajat-Shukla;
+
+while(dev.isCoding() && dev.isStuck())  
+{
+  dev.openBrowser();
+  dev.openStackOverFlow();
+  dev.pasteCodeInIde();
+  dev.feelProfessional();
+}
