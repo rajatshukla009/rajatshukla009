@@ -1,7 +1,7 @@
 
-document.write("Hello World");
+print("HELLO WORLD!!!!")
 
-var status = 
+par status = 
 { 
   learning : [Django Framework, Rust],
   interests: [Game Development, Python Development , Open Source Contribution]
@@ -17,17 +17,4 @@ const skills =
 }
 
 
-Developer dev = new Developer(Rajat-Shukla;
-
-while(dev.isCoding() && dev.isStuck())  
-{
-
-  dev.openBrowser();
-  
-  dev.openStackOverFlow();
-  
-  dev.pasteCodeInIde();
-  
-  dev.feelProfessional();
-  
-}
+Developer dev = new Developer(Rajat-Shukla);
