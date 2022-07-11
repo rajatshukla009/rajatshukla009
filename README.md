@@ -21,8 +21,13 @@ Developer dev = new Developer(Rajat-Shukla;
 
 while(dev.isCoding() && dev.isStuck())  
 {
+
   dev.openBrowser();
+  
   dev.openStackOverFlow();
+  
   dev.pasteCodeInIde();
+  
   dev.feelProfessional();
+  
 }
