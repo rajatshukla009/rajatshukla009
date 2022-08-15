@@ -8,7 +8,7 @@ from life import Creativity
 
 class Life(Creativity):
     def current_projects(self):
-        self.currently_learning = "Web Scraping and Rust 📚"
+        self.currently_learning = "Web Scraping and Devlopment 📚"
         self.currently_working_on = "Python Autmation 🌱"
         self.excited_for = "Internt of Things 🌎"
         
