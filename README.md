@@ -1,3 +1,8 @@
+[![GitHub Sponsors](https://img.shields.io/badge/Sponsors-Support%20Open%20Source-yellow.svg)](https://github.com/sponsors/rajatshukla009)
+[![Code Size](https://img.shields.io/github/languages/code-size/rajatshukla009/Breakout.svg)](https://github.com/rajatshukla009/Breakout)
+
+
+
 ### Visitor Count 
 ![Visitor Count](https://profile-counter.glitch.me/rajatshukla009/count.svg)
 
