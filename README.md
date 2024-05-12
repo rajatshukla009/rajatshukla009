@@ -18,7 +18,7 @@ class Life(Creativity):
         self.excited_for = "Internt of Things 🌎"
         
     def contact_me(self):
-        self.email = "bussrajat09@gmail.com"
+        self.email = "rajatworkshukla@gmail.com"
         
 if '__repo__' == '__helpful__':
     star.it()
